@@ -1,0 +1,7 @@
+This is a custom ADCS website inspired by Stanford University as part of Final Lab Exam.
+Subject: ICT
+Instructor: Miss Rameen Abrar.
+Name: Ali Waqar Zafar.
+Reg Id: 230449
+ADCS-I-B-F-23
+
